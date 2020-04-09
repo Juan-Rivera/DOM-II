@@ -71,3 +71,4 @@ let cntDest = document.querySelector('.content-destination img')
 cntDest.addEventListener('dbclick', function(){
     cntDest.style.border = '4px dashed #A3E4D7';
 })
+
